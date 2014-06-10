@@ -211,7 +211,7 @@ function contacto()
 
       //configuracion para gmail
       $configGmail = array('protocol' => 'smtp',
-                           'smtp_host' => 'ssl://smtp.gmail.com',
+                           'smtp_host' => 'smtp.gmail.com',
                            'smtp_port' => 465,
                            'smtp_auth' => false,
                            'smtp_user' => 'heladeriaelvalenciano@gmail.com',
