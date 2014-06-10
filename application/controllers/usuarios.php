@@ -229,8 +229,9 @@ function contacto()
       $this->email->message($data['texto']);  
 
       $this->email->send();     
-      $this->email->print_debugger();
+      $this->email->print_debugger()
 
+      die();
 
       redirecciona_form('Mensaje Enviado Correctamente, En Breve Le Contestaremos. GRACIAS.');    
       }
