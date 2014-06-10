@@ -228,10 +228,9 @@ function contacto()
       $this->email->subject("Email de". $data['nombre'] . " " . $data['apellidos']);
       $this->email->message($data['texto']);  
 
-      $this->email->send();     
-      $this->email->print_debugger();
+      //$this->email->send();     
+      echo phpinfo(); die();
 
-      die();
 
       redirecciona_form('Mensaje Enviado Correctamente, En Breve Le Contestaremos. GRACIAS.');    
       }
