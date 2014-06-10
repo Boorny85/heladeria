@@ -229,7 +229,7 @@ function contacto()
       $this->email->message($data['texto']);  
 
       $this->email->send();     
-      $this->email->print_debugger()
+      $this->email->print_debugger();
 
       die();
 
