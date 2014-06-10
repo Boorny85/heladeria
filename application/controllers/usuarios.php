@@ -215,7 +215,7 @@ function contacto()
                       'smtp_port' => 25,
                       'smtp_user' => 'Boorny85',
                       'smtp_pass' => 'Columdrum85',
-                      'mailtype' => 'html',
+                      'mailtype' => 'text',
                       'charset' => 'utf-8',
                       'newline' => "\r\n",
                       'validation' => TRUE
@@ -233,11 +233,10 @@ function contacto()
         redirecciona_form('Mensaje Enviado Correctamente, En Breve Le Contestaremos. GRACIAS.');    
       }
       else{
-        echo "ERROOOOOOOOOOOR"; die();
-        $this->email->print_debugger();
+        echo "ERROOOOOOOOOOOR"; 
+        show_error($this->email->print_debugger());
       }   
     }
-
 }
 
 }
