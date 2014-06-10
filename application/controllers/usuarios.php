@@ -211,11 +211,10 @@ function contacto()
 
       //configuracion para gmail
       $configGmail = array('protocol' => 'smtp',
-                           'smtp_host' => 'smtp.gmail.com',
-                           'smtp_port' => 465,
-                           'smtp_auth' => false,
-                           'smtp_user' => 'heladeriaelvalenciano@gmail.com',
-                           'smtp_pass' => 'JoseBornayJuan',
+                           'smtp_host' => 'mail.bornay.heliohost.org',
+                           'smtp_port' => 25,
+                           'smtp_user' => 'Boorny85',
+                           'smtp_pass' => 'Columdrum85',
                            'mailtype' => 'html',
                            'charset' => 'utf-8',
                            'newline' => "\r\n"
