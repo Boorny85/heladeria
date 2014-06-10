@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="es"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+	<meta charset="UTF-8">
+	<title>Playas</title>
+  <link rel="stylesheet" type="text/css" href="css/estilos.css"> 
+  <link href="ejemplo_files/bootstrap.css" rel="stylesheet">
+<link href="ejemplo_files/sbi.css" rel="stylesheet" type="text/css" id="sbi-style"></head>
+<body>
+  <header>
+
+    <form action="http://localhost/web/ayto/proyecto/trabajadores/logout" method="post" accept-charset="utf-8">
+       <!--   -->
+        <div id="logout">Usuario:  Chui        <input name="logout" value="Logout" type="submit"></div>
+         
+    </form>
+    <a href="http://localhost/web/ayto/proyecto/"><span id="titulo">Delegación de playas</span></a>
+  </header>
+  <section>
+    <form action="http://localhost/web/ayto/proyecto/contratos/alta" method="post" accept-charset="utf-8">
+    <div id="contenedor">
+    <section id="contrato" class="table">
+        <div class="tbody table">
+            <div class="thead">
+                <div class="td" style="border-right: none">
+
+                    <span>Alta contrato</span> 
+                </div>
+            </div>
+            <div class="tr">
+            	<div class="td">
+            		<label for="codigo">Código de contrato: </label>            	</div>
+            	<div class="td">
+            		<input name="codigo" type="text">            	</div>
+            </div>
+            <div class="tr">
+            	<div class="td">
+            		<label for="nomenclatura">Nomenclatura: </label>            	</div>
+            	<div class="td">
+            		<input name="nomenclatura" type="text">            	</div>
+            </div>
+            <div class="tr">
+            	<div class="td">
+            		<label for="prorroga">Prórroga: </label>            	</div>
+            	<div class="td">
+            		<input name="prorroga" value="t" type="checkbox">            	</div>
+            </div>
+            <div class="tr">
+            	<div class="td">
+            		<label for="categoria">Categoría: </label>            	</div>
+            	<div class="td">
+            		<input name="categoria" type="text">            	</div>
+            </div>
+            <div class="tr">
+            	<div class="td">
+            		<label for="fini">Fecha de inicio: </label>            	</div>
+            	<div class="td">
+            		<input name="fini" placeholder="DD/MM/YYYY" type="date">            	</div>
+            </div>
+            <div class="tr">
+            	<div class="td">
+            		<label for="ffin">Fecha de fin: </label>            	</div>
+            	<div class="td">
+        		    <input name="ffin" placeholder="DD/MM/YYYY" type="date">            	</div>
+            </div>
+            <div class="tr">
+            	<div class="td">
+        	      <label for="num_horas">Número de horas: </label>        		</div>
+            	<div class="td">		
+                  <input name="num_horas" type="text">        		</div>
+        	</div>
+        </div>
+    </section>
+
+    <section id="trabajadores">
+    	<table>
+    	  <thead>
+    	  	<tr><th>X</th>
+    	    <th>Nombre</th>
+    	    <th>Apellidos</th>
+    	    <th>DNI</th>
+    	    <th>Categoría</th>
+    	  </tr></thead>  
+    	  <tbody>
+    	        	      <tr>
+    	      	<td><input name="trabajadores[]" value="2" type="checkbox"></td>
+    	        <td><a href="http://localhost/web/ayto/proyecto/trabajadores/ficha/2">Jesus</a></td>
+    	        <td>Ruiz Diaz</td>
+    	        <td>22222222A</td>
+    	        <td>Limpieza</td>
+    	      </tr>
+    	        	      <tr>
+    	      	<td><input name="trabajadores[]" value="10" type="checkbox"></td>
+    	        <td><a href="http://localhost/web/ayto/proyecto/trabajadores/ficha/10">ana</a></td>
+    	        <td>ana</td>
+    	        <td>54863217e</td>
+    	        <td>Operarios Multifunción</td>
+    	      </tr>
+    	        	      <tr>
+    	      	<td><input name="trabajadores[]" value="9" type="checkbox"></td>
+    	        <td><a href="http://localhost/web/ayto/proyecto/trabajadores/ficha/9">Ricardo</a></td>
+    	        <td>Ricardo</td>
+    	        <td>95175365 </td>
+    	        <td>Operarios Multifunción</td>
+    	      </tr>
+    	        	      <tr>
+    	      	<td><input name="trabajadores[]" value="8" type="checkbox"></td>
+    	        <td><a href="http://localhost/web/ayto/proyecto/trabajadores/ficha/8">Miguel Angel</a></td>
+    	        <td>Miguel Angel</td>
+    	        <td>78965412S</td>
+    	        <td>Operarios Multifunción</td>
+    	      </tr>
+    	        	      <tr>
+    	      	<td><input name="trabajadores[]" value="7" type="checkbox"></td>
+    	        <td><a href="http://localhost/web/ayto/proyecto/trabajadores/ficha/7">silvia</a></td>
+    	        <td>silvia</td>
+    	        <td>14725836A</td>
+    	        <td>Operarios Multifunción</td>
+    	      </tr>
+    	        	      <tr>
+    	      	<td><input name="trabajadores[]" value="6" type="checkbox"></td>
+    	        <td><a href="http://localhost/web/ayto/proyecto/trabajadores/ficha/6">juana</a></td>
+    	        <td>juana</td>
+    	        <td>98765432A</td>
+    	        <td>Operarios Multifunción</td>
+    	      </tr>
+    	        	      <tr>
+    	      	<td><input name="trabajadores[]" value="5" type="checkbox"></td>
+    	        <td><a href="http://localhost/web/ayto/proyecto/trabajadores/ficha/5">maria</a></td>
+    	        <td>maria</td>
+    	        <td>77777777A</td>
+    	        <td>Operarios Multifunción</td>
+    	      </tr>
+    	        	      <tr>
+    	      	<td><input name="trabajadores[]" value="4" type="checkbox"></td>
+    	        <td><a href="http://localhost/web/ayto/proyecto/trabajadores/ficha/4">pepe</a></td>
+    	        <td>pepe</td>
+    	        <td>12345678a</td>
+    	        <td>Operarios Multifunción</td>
+    	      </tr>
+    	        	      <tr>
+    	      	<td><input name="trabajadores[]" value="3" type="checkbox"></td>
+    	        <td><a href="http://localhost/web/ayto/proyecto/trabajadores/ficha/3">paco</a></td>
+    	        <td>paco</td>
+    	        <td>66666666A</td>
+    	        <td>Operarios Multifunción</td>
+    	      </tr>
+    	        	      <tr>
+    	      	<td><input name="trabajadores[]" value="1" type="checkbox"></td>
+    	        <td><a href="http://localhost/web/ayto/proyecto/trabajadores/ficha/1">Jose Antonio</a></td>
+    	        <td>Montalban Bornay</td>
+    	        <td>53581781S</td>
+    	        <td>Operarios Multifunción</td>
+    	      </tr>
+    	        	  </tbody>
+    	</table>
+    </section>
+</div>
+<div class="celda-centrado" id="clear"><input name="alta" value="Dar de alta contratos" type="submit"></div>
+</form><a href="http://localhost/web/ayto/proyecto/trabajadores/index">Volver</a>  </section>
+  <footer>
+    <a href="http://localhost/web/ayto/proyecto/">Inicio</a> 
+    <span>Ayto. de Chipiona</span>
+
+  </footer>
+
+
+<div style="left: 0px; top: 0px; position: absolute; width: 29px; height: 27px; border: medium none; margin: 0px; padding: 0px; z-index: 2147483647; display: none;" class="sbi_search" id="sbi_camera_button"></div></body></html>

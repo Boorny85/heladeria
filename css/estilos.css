@@ -1,0 +1,445 @@
+@font-face {
+    font-family: "Script MT Bold";
+    src: url('../script/Script mt Bold.ttf') format("truetype");
+}
+
+*{
+	padding: 0px;
+	margin: 0px;
+}
+#formulario{
+	border: 2px solid darkblue;
+	border-radius: 15px;
+	padding: 15px;
+}
+
+#contenedor{
+		border: 2px solid #0007a9;
+		margin-top: 20px;
+		padding-bottom: 20px;
+		border-top-left-radius: 25px;
+		border-top-right-radius: 25px;
+}
+
+#contenedor, #contenedor-back{
+	min-width: 550px;
+	background-color: rgba(255,255,255,0.6);
+}
+
+#carrito_cabecera{
+	min-width: 100px;
+}
+
+footer{
+	padding-top: 15px;
+	border-left: 5px solid #21219F;
+	min-width: 550px;
+	border-bottom-right-radius: 1px;
+	background: #2028c8; /* Old browsers */
+	background: -moz-linear-gradient(left, #2028c8 0%, #2b1fa5 12%, #2b1fa5 87%, #2224c2 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, right top, color-stop(0%,#2028c8), color-stop(12%,#2b1fa5), color-stop(87%,#2b1fa5), color-stop(100%,#2224c2)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(left, #2028c8 0%,#2b1fa5 12%,#2b1fa5 87%,#2224c2 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(left, #2028c8 0%,#2b1fa5 12%,#2b1fa5 87%,#2224c2 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(left, #2028c8 0%,#2b1fa5 12%,#2b1fa5 87%,#2224c2 100%); /* IE10+ */
+	background: linear-gradient(to right, #2028c8 0%,#2b1fa5 12%,#2b1fa5 87%,#2224c2 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2028c8', endColorstr='#2224c2',GradientType=1 ); /* IE6-9 */
+}
+
+footer section{
+	border-right: 1px solid white;
+}
+footer section:last-child{
+	border: 0;
+	padding-left: 15px !important;
+	padding-right: 0 !important;
+}
+footer img{
+	min-width: 40px;
+}
+footer div{
+	text-align: center;
+}
+footer p, footer a{
+	font-size: 0.9em;
+	font-weight: bold;
+	text-align: center;
+	color: white;
+	display: block;
+	height: 25px;
+}
+
+footer a:hover{
+	color:white;
+	text-decoration: underline;
+}
+
+.pie{
+	min-width: 550px;
+	height: 300px;
+	background-image: url('../imagenes/pie.png');
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+
+#imagen_body{
+	width: 100%;
+	position: absolute;
+	left:0px;
+	top:0px;
+	z-index: -1;
+	min-width: 600px;
+
+	-webkit-animation:myfirst 5s;
+}
+
+.efecto{
+	border: 2px dashed darkblue;
+}
+
+#menu_principal a{
+	font-size: 1.5em !important;
+}
+.imagenes_menu{
+	max-height: 35px;
+	max-width: 35px;
+	margin-right: 5px;
+}
+nav a{
+	font-family: 'Script MT Bold';
+	font-size: 1.3em !important;
+}
+
+#nav_lat a.btn, #menu_principal a{
+	padding: 5px !important;
+}
+
+hr{
+	border: 1px solid #0007a9;
+}
+#cabecera-back, #cabecera{
+	margin-bottom: 20px;
+	margin-top: 10px;
+}
+
+#cabecera-pop.row{
+	margin: 20px 0 10px 0 !important;
+}
+.row.botonera{
+	margin: 15px;
+}
+#img_cabecera{
+	max-width: 650px;
+	min-width: 350px;
+}
+#img_cabecera_back{
+	width: 100%;
+}
+.login{
+	margin-top: 10px; 
+}
+
+.btn-primary{
+	background-color: #0007a9;
+}
+.btn-group, .btn-group-justified{
+	border-radius: 0 !important;
+}
+
+.row{
+	padding-right: 0px !important;
+	padding-left: 0px !important;
+}
+
+.btn-menu-sup, .tabla{
+	border: 1px solid black;
+}
+
+#geo{
+	border:1px solid green;
+}
+
+#map{
+	height: 400px;
+}
+
+#mensaje{
+	color: #0007a9;
+	display: none;
+	line-height: 3em;
+	font-weight: bold;
+}
+
+#visual_imagen{
+	margin-bottom: 10px;
+	width: 300px;
+}
+
+#portada_imagen{
+	margin-bottom: 10px;
+	width: 100%;
+}
+.clear{
+  clear: left;
+  }
+
+#municipios{
+	width: 150px;
+}
+
+#menu{
+	margin-bottom: 10px;
+}
+.producto{
+	border: 1px dashed #0007a9;
+	float: left;
+	height: 175px;
+	width: 130px;
+	margin: 5px !important;
+	padding: 5px;
+}
+
+.producto_sabor{
+	border: 1px dashed #0007a9;
+	width: 100%;
+	margin: 5px !important;
+	padding: 5px;
+}
+
+.producto_sabor p{
+	display: inline;
+}
+.ficha{
+	margin-top: 20px !important;
+}
+.imagen_producto{
+	width: 100px;
+}
+.imagen_ficha{
+	width: 100%;
+}
+.cuerpo>section{
+	padding: 5px;
+}
+
+.boton{
+	font-family: 'Script MT Bold';
+	font-size: 1.3em;
+	padding: 5px !important;
+
+}
+h3{
+border-bottom: 2px solid #0007a9;
+text-align: center;
+font-family: 'Script MT Bold';
+margin-top: 0;
+
+}
+
+.navbar-fixed-top{
+	position: relative !important;
+}
+
+#sel_lat{
+		display: none;
+	}
+
+figcaption{
+	background-color: rgba(0,0,0,0.8);
+	color: white;
+	font-family: 'Script MT Bold';
+}
+
+#imagen_conocenos figcaption{
+	background-color: rgba(0,0,0,0.8);
+	color: white;
+	font-family: 'Script MT Bold';
+	position: relative;
+	top: -50px
+}
+
+figcaption p{
+	text-align: center;
+}
+
+#descripcion{
+	width: 300px;
+}
+
+#tabla_registro td{
+	text-align: left;
+}
+.imagenes_carrito{
+	float: left;
+	margin-right: 10px;
+}
+
+.imagenes_cantidades{
+	margin-left: 5px;
+}
+.imagenes_cantidades, .imagenes_carrito{
+	height: 20px;
+	width: 20px;
+}
+
+.productos_carrito{
+	width: 100px;
+}
+
+a.btn{
+	text-decoration: none !important;
+	font-size: 1em;
+	color: white !important;
+}
+
+a.btn-default{
+	color: #0007a9 !important;
+}
+.select_sabores{
+	height: 25px;
+	width: 70%;
+}
+table ul{
+	list-style-type: none;
+}
+
+#busqueda *, #busqueda+section{
+	margin-bottom: 5px !important;
+	
+}
+#paginado *{
+	font-weight: bold;
+	color: darkblue;
+	font-family: sans-serif;
+}
+.datos{
+	margin: 20px auto;
+}
+
+.datos_confirmar{
+	text-align: center;
+	padding: 15px;
+
+}
+
+input:disabled{
+	color:gray !important;
+}
+/****************************************************/
+/*                  Madia Queries                   */
+/****************************************************/
+@media all and (max-width: 768px) {
+	#sel_lat{
+		display: inline;
+	}
+	#nav_lat{
+		display: none;
+	}
+	.twitter-timeline{
+		display: none;
+	}
+}
+/****************************************************/
+/*                  Estilo tablas                   */
+/****************************************************/
+
+
+th:first-child {
+    border-radius: 15px 0 0 0;
+}
+
+th:last-child {
+    border-radius: 0 15px 0 0;
+}
+
+th:only-child{
+    border-radius: 15px 15px 0 0;
+}
+
+tr:last-child td:first-child{
+	border-radius: 0 0 0 15px;	
+}
+
+tr:last-child td:last-child{
+	border-radius: 0 0 15px 0;	
+}
+
+tr:last-child td:only-child{
+	border-radius: 0 0 15px 15px;	
+}
+
+table,td,th{
+	border-collapse:collapse;
+	margin:0;
+	padding:0;
+	text-align: center;
+}
+table{
+	margin: auto;
+	height: 25%;
+	font-family: Garamond, Georgia, "Times New Roman", Times, serif;
+}
+
+td,th{	
+	vertical-align:top;
+	font-weight:normal;
+	max-width: 22%;	
+}
+
+thead th{
+	background: darkblue;	
+	color: #FFFFFF;
+	text-align: center;
+	padding: 4px 0.4em 4px 0.4em;	
+}
+
+tbody td, tbody th{
+	background-color: #D9ECFF;
+	padding: 0.4em 0.5em 0.4em 0.5em;
+	border-top: 1px solid darkblue;
+}
+
+tbody tr:nth-child(odd) td{
+	background-color: #BDDFFF;
+}
+
+table#tabla_carrito tr:nth-child(odd) td{
+	background-color: white;
+}
+
+table#tabla_carrito tr:nth-child(even) td{
+	background-color: #BDBDBD;
+}
+
+tbody th{	
+	font-weight: bold;	
+	border-left:1px solid #2293FF;
+}
+
+table a:link, table a:visited, table a:active{	
+	color:#444F66;
+	text-decoration: underline;
+}
+
+table a:hover{
+	text-decoration:none;
+	color: #000;
+}
+
+input.error{
+	background-color: #f2dede;
+	border: 2px solid red;
+
+
+}
+div.error{
+	color: #a94442;
+  border-color: #ebccd1;
+  font-weight: bold;
+}
+
+
+@-webkit-keyframes myfirst
+{
+0%   {top:-250px;}
+100% {top:0px;}
+}

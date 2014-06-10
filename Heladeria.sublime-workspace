@@ -1,0 +1,1629 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"redire",
+				"redirect"
+			],
+			[
+				"set",
+				"set_flashdata	CI - Set flashdata"
+			],
+			[
+				"id",
+				"id_login"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"from",
+				"form_close	CI - Form Helper - Close"
+			],
+			[
+				"form",
+				"form_open	CI - Form Open"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"factura",
+				"factura_pdf"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"bacground",
+				"background-color"
+			],
+			[
+				"select",
+				"select_familias"
+			],
+			[
+				"border-b",
+				"border-bottom"
+			],
+			[
+				"producto",
+				"productos_v"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"direccion",
+				"direccion_habitual"
+			],
+			[
+				"can",
+				"cant_actual"
+			],
+			[
+				"border-bot",
+				"border-bottom-right-radius"
+			],
+			[
+				"base",
+				"base_url"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"s",
+				"strong"
+			],
+			[
+				"efect",
+				"efecto2"
+			],
+			[
+				"efec",
+				"efecto2"
+			],
+			[
+				"gli",
+				"glyphicon"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"col",
+				"col-xs-offset-2"
+			],
+			[
+				"fot",
+				"font-family"
+			],
+			[
+				"display",
+				"display_errors"
+			],
+			[
+				"ar",
+				"articulos"
+			],
+			[
+				"opcio",
+				"opciones_p"
+			],
+			[
+				"if",
+				"if	if"
+			],
+			[
+				"pro",
+				"producto"
+			],
+			[
+				"sab",
+				"sabores"
+			],
+			[
+				"com",
+				"combinable"
+			],
+			[
+				"obt",
+				"obtener_id"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"backgro",
+				"background-position"
+			],
+			[
+				"back",
+				"background-repeat"
+			],
+			[
+				"carga",
+				"carga_central"
+			],
+			[
+				"bacgroun",
+				"background-color"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"btn",
+				"btn-primary"
+			],
+			[
+				"max",
+				"max_length"
+			],
+			[
+				"editar",
+				"editar_imagen"
+			],
+			[
+				"precio",
+				"precio"
+			],
+			[
+				"border-top",
+				"border-top-left-radius"
+			],
+			[
+				"col-md-",
+				"col-md-offset-1"
+			],
+			[
+				"col-md",
+				"col-md-offset-1"
+			],
+			[
+				"big",
+				"bigint"
+			],
+			[
+				"bi",
+				"bigserial"
+			],
+			[
+				"sock",
+				"socket_bind"
+			],
+			[
+				"Tipo",
+				"Tipo_contrato"
+			],
+			[
+				"codigo",
+				"codigo_contrato"
+			],
+			[
+				"contratos",
+				"contratos"
+			],
+			[
+				"Conr",
+				"Contrato"
+			],
+			[
+				"_",
+				"_post	CI - $_POST"
+			],
+			[
+				"end",
+				"endforeach"
+			],
+			[
+				"res",
+				"result_array"
+			],
+			[
+				"array",
+				"array"
+			],
+			[
+				"des",
+				"descripcion"
+			],
+			[
+				"de",
+				"descripcion"
+			],
+			[
+				"admin",
+				"administrador"
+			],
+			[
+				"tel",
+				"tel_fijo"
+			],
+			[
+				"num",
+				"num_tar"
+			],
+			[
+				"at",
+				"atributos"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"id_",
+				"id_dest"
+			],
+			[
+				"current",
+				"current_time"
+			],
+			[
+				"load",
+				"load_library	CI - Load Library"
+			],
+			[
+				"cons",
+				"consulta"
+			],
+			[
+				"css",
+				"css	.css() - single"
+			],
+			[
+				"conte",
+				"contenedor"
+			],
+			[
+				"cabec",
+				"cabeceraPlugin	JQ2"
+			],
+			[
+				"parse",
+				"parse	$.parseJSON()"
+			],
+			[
+				"fade",
+				"fadeto	.fadeTo()"
+			],
+			[
+				"fad",
+				"fadeto	.fadeTo()"
+			],
+			[
+				"ready",
+				"ready	$(document).ready"
+			],
+			[
+				"cabece",
+				"cabecerajquery	sublime4"
+			],
+			[
+				"get",
+				"get	$.get()"
+			],
+			[
+				"cabecera",
+				"cabeceraxhr	sublime3"
+			],
+			[
+				"anima",
+				"animate"
+			],
+			[
+				"cabe",
+				"cabeceraxhr	sublime3"
+			],
+			[
+				"conicion",
+				"condicioninicial	sublime2"
+			],
+			[
+				"condicio",
+				"condicioninicial	sublime2"
+			],
+			[
+				"comp",
+				"compruebaDisponibilidad"
+			],
+			[
+				"ge",
+				"get	Get Elements"
+			],
+			[
+				"cabecer",
+				"cabecerajquery	sublime4"
+			],
+			[
+				"cacera",
+				"cabeceraPlugin	JQ1"
+			],
+			[
+				"resp",
+				"responseText"
+			],
+			[
+				"retur",
+				"return"
+			],
+			[
+				"alta",
+				"alta_bandera"
+			],
+			[
+				"municiio",
+				"municipios"
+			],
+			[
+				"listar",
+				"listarMunicipios"
+			],
+			[
+				"no",
+				"nodeValue"
+			],
+			[
+				"respuesta",
+				"respuesta_json"
+			],
+			[
+				"app",
+				"appendChild"
+			],
+			[
+				"do",
+				"document"
+			],
+			[
+				"doc",
+				"documento_xml"
+			],
+			[
+				"http",
+				"httpRequest"
+			],
+			[
+				"strto",
+				"strtolower"
+			],
+			[
+				"paise",
+				"paises_personas"
+			],
+			[
+				"gen",
+				"generos_peniculas"
+			],
+			[
+				"sessi",
+				"session_userdata	CI - Session - Retrieving Session Data"
+			],
+			[
+				"seguidor",
+				"seguidor_id"
+			],
+			[
+				"seguido",
+				"seguido_id"
+			],
+			[
+				"fun",
+				"fun	function …"
+			],
+			[
+				"tui",
+				"tuits_de"
+			],
+			[
+				"tuit",
+				"Tuit"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"usuario",
+				"usuario_id"
+			],
+			[
+				"tuits",
+				"tuits"
+			],
+			[
+				"th",
+				"throw	Throw Exception"
+			],
+			[
+				"arra",
+				"array"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"critr",
+				"criterio_form"
+			],
+			[
+				"pgque",
+				"pg_query_params"
+			],
+			[
+				"criterio",
+				"criterio_form"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "application/views/facturas/index.php",
+			"settings":
+			{
+				"buffer_size": 4402,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/views/home/formulario.php",
+			"settings":
+			{
+				"buffer_size": 962,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/controllers/usuarios.php",
+			"settings":
+			{
+				"buffer_size": 6423,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/views/familias/alta.php",
+			"settings":
+			{
+				"buffer_size": 792,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/views/facturas/tabla.php",
+			"settings":
+			{
+				"buffer_size": 660,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/views/usuarios/menu.php",
+			"settings":
+			{
+				"buffer_size": 1068,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/helpers/comunes_helper.php",
+			"settings":
+			{
+				"buffer_size": 2357,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/models/factura.php",
+			"settings":
+			{
+				"buffer_size": 3049,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/controllers/admin/facturas.php",
+			"settings":
+			{
+				"buffer_size": 3838,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/bornay/Dropbox/Principal.html",
+			"settings":
+			{
+				"buffer_size": 12175,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "bd/bd.sql",
+			"settings":
+			{
+				"buffer_size": 700889,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/views/home/ubicacion.php",
+			"settings":
+			{
+				"buffer_size": 1245,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/views/productos/index.php",
+			"settings":
+			{
+				"buffer_size": 6508,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/styles.css",
+			"settings":
+			{
+				"buffer_size": 5324,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/estilopdf.css",
+			"settings":
+			{
+				"buffer_size": 338,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/estilos.css",
+			"settings":
+			{
+				"buffer_size": 7114,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "bootstrap/css/bootstrap.css",
+			"settings":
+			{
+				"buffer_size": 121268,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 117.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"INSTALL",
+				"Package Control: Install Package"
+			],
+			[
+				"codei",
+				"Snippet: CodeIgniter Model"
+			],
+			[
+				"code",
+				"Snippet: CodeIgniter Controller"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"codeig",
+				"Snippet: CodeIgniter Controller"
+			],
+			[
+				"ajax",
+				"Snippet: Input Is AJAX Request"
+			],
+			[
+				"Snippet: codeign",
+				"Snippet: CodeIgniter Controller"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"sft",
+				"SFTP: Browse Server…"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib2,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/bornay/web/heladeria/application/views/facturas/pedidos.php",
+		"/home/bornay/web/heladeria/application/models/usuario.php",
+		"/home/bornay/web/heladeria/application/controllers/facturas.php",
+		"/home/bornay/web/heladeria/application/views/facturas/index.php",
+		"/home/bornay/web/heladeria/script/comunes.js",
+		"/home/bornay/web/heladeria/application/views/comunes/plantilla.php",
+		"/home/bornay/web/heladeria/application/controllers/admin/productos.php",
+		"/home/bornay/web/heladeria/application/models/factura.php",
+		"/home/bornay/web/heladeria/application/controllers/admin/usuarios.php",
+		"/home/bornay/web/heladeria/application/views/productos/editar_imagen.php",
+		"/home/bornay/web/heladeria/application/views/productos/index.php",
+		"/home/bornay/web/heladeria/application/views/usuarios/menu.php",
+		"/home/bornay/web/heladeria/application/helpers/comunes_helper.php",
+		"/home/bornay/web/heladeria/application/views/usuarios/index.php",
+		"/home/bornay/web/heladeria/application/views/home/formulario.php",
+		"/home/bornay/web/heladeria/application/controllers/admin/facturas.php",
+		"/home/bornay/web/heladeria/application/views/comunes/plantilla_pdf.php",
+		"/home/bornay/web/heladeria/application/controllers/usuarios.php",
+		"/home/bornay/web/heladeria/application/views/usuarios/alta.php",
+		"/home/bornay/web/heladeria/application/views/usuarios/editar.php",
+		"/home/bornay/web/heladeria/application/language/es/form_validation_lang.php",
+		"/home/bornay/web/heladeria/application/views/usuarios/login.php",
+		"/home/bornay/web/heladeria/application/views/comunes/plantilla_back.php",
+		"/home/bornay/web/heladeria/application/views/comunes/plantilla_popup.php",
+		"/home/bornay/web/heladeria/application/views/productos/lista_productos.php",
+		"/home/bornay/web/heladeria/application/views/productos/busqueda.php",
+		"/home/bornay/web/heladeria/application/views/facturas/tabla.php",
+		"/home/bornay/web/heladeria/application/views/productos/alta_imagen.php",
+		"/home/bornay/web/heladeria/application/views/sabores/alta_imagen.php",
+		"/home/bornay/web/heladeria/application/views/sabores/editar_imagen.php",
+		"/home/bornay/web/heladeria/application/views/productos/ficha.php",
+		"/home/bornay/web/heladeria/application/controllers/productos.php",
+		"/home/bornay/web/heladeria/application/views/comunes/informe_pdf.php",
+		"/home/bornay/web/heladeria/application/views/productos/ficha",
+		"/home/bornay/web/heladeria/script/chosen/chosen.css",
+		"/home/bornay/web/heladeria/application/views/home/conocenos.php",
+		"/home/bornay/web/heladeria/application/models/producto.php",
+		"/home/bornay/web/heladeria/script/jquery.form-validator.js",
+		"/home/bornay/web/heladeria/application/config/autoload.php",
+		"/home/bornay/web/heladeria/application/views/comunes/carrito.php",
+		"/home/bornay/web/heladeria/application/views/home/home.php",
+		"/home/bornay/web/heladeria/application/views/comunes/municipios.php",
+		"/home/bornay/web/heladeria/script/jquery.validate.js",
+		"/home/bornay/Dropbox/DAW/2º DAW/Diseño/Practica 2.2/Index.html",
+		"/home/bornay/Dropbox/DAW/2º DAW/Cliente/Tema 7/formularios/B2Ejercicio3_mod3_plugin.html",
+		"/home/bornay/Dropbox/DAW/2º DAW/Cliente/Tema 7/formularios/B2Ejercicio3_mod2_plugin.html",
+		"/home/bornay/Dropbox/DAW/2º DAW/Cliente/Tema 7/formularios/B2Ejercicio3_mod1_JQuery.html",
+		"/home/bornay/web/heladeria/.htaccess",
+		"/home/bornay/web/heladeria/application/views/sabores/index.php",
+		"/home/bornay/web/heladeria/application/views/sabores/editar.php",
+		"/home/bornay/web/heladeria/application/views/sabores/alta.php",
+		"/home/bornay/web/heladeria/application/views/productos/editar.php",
+		"/home/bornay/web/heladeria/application/views/productos/alta.php",
+		"/home/bornay/web/heladeria/application/views/comunes/tabla_productos.php",
+		"/home/bornay/web/heladeria/application/views/carrito/confirmar.php",
+		"/home/bornay/web/heladeria/application/controllers/carritos.php",
+		"/home/bornay/web/heladeria/application/views/carrito/comprado.php",
+		"/home/bornay/web/heladeria/application/controllers/home.php",
+		"/home/bornay/web/heladeria/script/jquery.glide.min.js",
+		"/home/bornay/web/heladeria/application/views/carrito/index.php",
+		"/home/bornay/web/heladeria/application/controllers/admin/admin.php",
+		"/home/bornay/web/heladeria/application/views/carrito/carrito_cabecera.php",
+		"/home/bornay/web/heladeria/application/views/home/ubicacion.php",
+		"/home/bornay/web/heladeria/css/estilos.css",
+		"/home/bornay/web/heladeria/application/views/productos/ftpsync.settings",
+		"/home/bornay/web/heladeria/bd/bd.sql",
+		"/home/bornay/web/heladeria/system/libraries/Cart.php",
+		"/home/bornay/web/heladeria/script/jquery.js",
+		"/home/bornay/web/heladeria/application/controllers/admin/familias.php",
+		"/home/bornay/web/heladeria/application/controllers/admin/sabores.php",
+		"/home/bornay/web/heladeria/ftpsync.settings",
+		"/home/bornay/.config/sublime-text-3/Packages/FTPSync/Default (Linux).sublime-keymap",
+		"/home/bornay/.config/sublime-text-3/Packages/User/FTPSync.sublime-settings",
+		"/home/bornay/web/heladeria/application/libraries/MY_cart.php",
+		"/home/bornay/web/heladeria/application/views/sabores/borrar.php",
+		"/home/bornay/web/heladeria/application/views/usuarios/borrar.php",
+		"/home/bornay/web/heladeria/system/core/Input.php",
+		"/home/bornay/web/heladeria/application/views/familias/editar.php",
+		"/home/bornay/web/heladeria/application/views/familias/borrar.php",
+		"/home/bornay/web/heladeria/application/views/familias/alta.php",
+		"/home/bornay/web/heladeria/application/views/familias/index.php",
+		"/home/bornay/web/heladeria/application/views/comunes/menu.php",
+		"/home/bornay/web/heladeria/application/views/productos/borrar.php",
+		"/home/bornay/web/heladeria/system/language/english/form_validation_lang.php",
+		"/home/bornay/web/heladeria/script/ventanas.js",
+		"/home/bornay/web/heladeria/application/controllers/provincias.php",
+		"/home/bornay/web/heladeria/application/models/provincia.php",
+		"/home/bornay/web/heladeria/application/controllers/sabores.php",
+		"/home/bornay/web/heladeria/application/models/sabor.php",
+		"/home/bornay/web/heladeria/application/controllers/familias.php",
+		"/home/bornay/web/heladeria/application/models/familia.php",
+		"/home/bornay/web/heladeria/application/controllers/admin.php",
+		"/home/bornay/web/heladeria/application/views/admin/index.php",
+		"/home/bornay/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/bornay/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/bornay/web/heladeria/bootstrap/css/bootstrap.css",
+		"/home/bornay/web/heladeria/application/views/plantilla.php",
+		"/home/bornay/web/heladeria/user_guide/index.html",
+		"/home/bornay/web/heladeria/index.php",
+		"/home/bornay/web/heladeria/application/config/routes.php",
+		"/home/bornay/proyecto/application/views/contratos/alta.php",
+		"/home/bornay/proyecto/user_guide/index.html",
+		"/home/bornay/proyecto/application/views/comunes/plantilla.php",
+		"/home/bornay/proyecto/css/estilos.css",
+		"/home/bornay/proyecto/application/views/contratos/index.php",
+		"/home/bornay/proyecto/application/controllers/contratos.php",
+		"/home/bornay/proyecto/application/views/comunes/plantilla_popup.php",
+		"/home/bornay/proyecto/bd/bd.sql",
+		"/home/bornay/proyecto/application/models/tipo_contrato.php",
+		"/home/bornay/proyecto/application/views/contratos/editar.php",
+		"/home/bornay/proyecto/application/controllers/trabajadores.php",
+		"/home/bornay/proyecto/application/views/trabajadores/index.php",
+		"/home/bornay/proyecto/application/models/contrato.php",
+		"/home/bornay/proyecto/application/views/trabajadores/index_ajax.php",
+		"/home/bornay/proyecto/application/models/trabajador.php",
+		"/home/bornay/proyecto/application/views/trabajadores/alta.php",
+		"/home/bornay/proyecto/.htaccess",
+		"/home/bornay/proyecto/application/views/departamentos/alta.php",
+		"/home/bornay/web/socketCliente.php",
+		"/home/bornay/proyecto/application/views/departamentos/borrar.php",
+		"/home/bornay/proyecto/application/views/cargos/borrar.php",
+		"/home/bornay/proyecto/application/views/categorias/borrar.php",
+		"/home/bornay/proyecto/application/views/contratos/borrar.php",
+		"/home/bornay/proyecto/application/views/puestos/alta.php",
+		"/home/bornay/proyecto/application/views/puestos/borrar.php",
+		"/home/bornay/proyecto/application/views/tipos_contrato/borrar.php",
+		"/home/bornay/proyecto/application/views/trabajadores/borrar.php",
+		"/home/bornay/proyecto/application/views/destinos/alta.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/home/bornay/web/heladeria/application"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"current_date",
+			"default",
+			"select",
+			"error",
+			"    muni();\n",
+			"data-",
+			"data-c",
+			"data-ç",
+			"data-",
+			"pass",
+			"confirmation",
+			"fields",
+			"requied",
+			"parent",
+			"confirmar",
+			"h4",
+			"'];\n",
+			"btn",
+			"slider",
+			"border",
+			"arrow",
+			"next",
+			"prev",
+			"next",
+			"for",
+			"color",
+			"#5a7fbc",
+			"figcap",
+			"padding",
+			"imagen",
+			"bold",
+			"%",
+			"pro",
+			"login",
+			"li",
+			"navbar-fixed-top",
+			"navbar-fixed",
+			"carrito",
+			"container",
+			"text-de",
+			"pie",
+			"imagen_pie",
+			"menu",
+			"Trabajadores",
+			"trabajadores",
+			"s",
+			"sabor",
+			"producto",
+			"Productos",
+			"productos",
+			"producto",
+			"Producto",
+			"Productos",
+			"productos",
+			"Productos",
+			"productos",
+			"producto",
+			"productos",
+			"Producto",
+			"producto",
+			"Producto",
+			"productos",
+			"todos",
+			"cabecera",
+			"descripcion",
+			"cargos",
+			"cargo",
+			"Cargos",
+			"Cargo",
+			"cargo",
+			"Cargo",
+			"cargos",
+			"admin",
+			"ruler",
+			"text",
+			"Trabajador",
+			"trabajador",
+			"trabajadores",
+			"md",
+			"img",
+			"btn-group-j",
+			"standar",
+			"input[type=\"date",
+			"cargos",
+			"destinos",
+			"Destino",
+			"destinos",
+			"Destino",
+			"Destinos",
+			"destinos",
+			"destino",
+			"Destino",
+			"destinos",
+			"Destino",
+			"destinos",
+			"usuarios",
+			"();\n",
+			"texto",
+			"pelic"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Usuarios",
+			"usuarios",
+			"producto",
+			"sabor",
+			"Sabores",
+			"sabores",
+			"sabor",
+			"Sabor",
+			"Sabores",
+			"sabores",
+			"Sabores",
+			"sabores",
+			"sabor",
+			"sabores",
+			"Sabor",
+			"sabor",
+			"Sabor",
+			"sabores",
+			"todas",
+			"nombre",
+			"familias",
+			"familia",
+			"Familias",
+			"Familia",
+			"familia",
+			"Familia",
+			"familias",
+			"Producto",
+			"producto",
+			"productos",
+			"xs",
+			"tipos_contrato",
+			"contratos",
+			"puestos",
+			"Puesto",
+			"puestos",
+			"departamentos",
+			"Departamento",
+			"categorias",
+			"Categoria",
+			"categorias",
+			"cargos",
+			"trabajadores"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "application/views/facturas/index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4402,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2509,
+								2509
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "application/views/home/formulario.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 962,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								81,
+								81
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "application/controllers/usuarios.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6423,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4987,
+								4987
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 101.0,
+						"translation.y": 3093.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "application/views/familias/alta.php",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 792,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								35,
+								35
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "application/views/facturas/tabla.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 660,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								660,
+								660
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "application/views/usuarios/menu.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1068,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1068,
+								1068
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "application/helpers/comunes_helper.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2357,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1145,
+								1145
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "application/models/factura.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3049,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1752,
+								1752
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 1309.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "application/controllers/admin/facturas.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3838,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1407,
+								1407
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1428.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 9,
+					"file": "/home/bornay/Dropbox/Principal.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12175,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								913,
+								913
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 119.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "bd/bd.sql",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 700889,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								700889,
+								700889
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SQL/SQL.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2566.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "application/views/home/ubicacion.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1245,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1245,
+								1245
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "application/views/productos/index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6508,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								801,
+								801
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "css/styles.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5324,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3706,
+								3706
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2821.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "css/estilopdf.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 338,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								161,
+								161
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "css/estilos.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7114,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								232,
+								232
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "bootstrap/css/bootstrap.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 121268,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								88768,
+								88768
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 19787.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.513194260663,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 102.0
+	},
+	"project": "Heladeria.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/incidencias/incidencias.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 247.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
