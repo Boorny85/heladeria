@@ -217,7 +217,8 @@ function contacto()
                            'smtp_pass' => 'Columdrum85',
                            'mailtype' => 'html',
                            'charset' => 'utf-8',
-                           'newline' => "\r\n"
+                           'newline' => "\r\n",
+                           'validation' => TRUE
                           );
 
       //cargamos la configuración para enviar con gmail
