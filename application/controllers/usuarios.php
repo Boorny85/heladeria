@@ -213,6 +213,7 @@ function contacto()
       $configGmail = array('protocol' => 'smtp',
                            'smtp_host' => 'ssl://smtp.gmail.com',
                            'smtp_port' => 465,
+                           'smtp_auth' => false,
                            'smtp_user' => 'heladeriaelvalenciano@gmail.com',
                            'smtp_pass' => 'JoseBornayJuan',
                            'mailtype' => 'html',
@@ -228,18 +229,13 @@ function contacto()
       $this->email->subject("Email de". $data['nombre'] . " " . $data['apellidos']);
       $this->email->message($data['texto']);  
 
-      //$this->email->send();     
-      echo phpinfo(); die();
-
-
-      redirecciona_form('Mensaje Enviado Correctamente, En Breve Le Contestaremos. GRACIAS.');    
+      if ($this->email->send()) {
+        redirecciona_form('Mensaje Enviado Correctamente, En Breve Le Contestaremos. GRACIAS.');    
       }
-
-  
-
-  
-  
-  //con esto podemos ver el resultado
+      else{
+        $this->email->print_debugger();
+      }   
+    }
 
 }
 

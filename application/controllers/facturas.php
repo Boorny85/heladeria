@@ -27,7 +27,7 @@ class Facturas extends CI_Controller {
 
     $nfilas = $this->Factura->num_filas($id);
     $npags = ceil($nfilas/$this->FPP);
-    if ($pag > $npags) redirect("/facturas/index/1");
+    if ($npags > 0 && $pag > $npags) redirect("/facturas/index/1");
 
     $res = $this->Factura->por_usuario($id,$this->FPP,($pag - 1) * $this->FPP);
 
