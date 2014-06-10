@@ -232,6 +232,7 @@ function contacto()
         redirecciona_form('Mensaje Enviado Correctamente, En Breve Le Contestaremos. GRACIAS.');    
       }
       else{
+        echo "ERROOOOOOOOOOOR";
         $this->email->print_debugger();
       }   
     }
