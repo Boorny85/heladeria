@@ -210,19 +210,19 @@ function contacto()
 
 
       //configuracion para gmail
-      $configGmail = array('protocol' => 'smtp',
-                           'smtp_host' => 'mail.bornay.heliohost.org',
-                           'smtp_port' => 25,
-                           'smtp_user' => 'Boorny85',
-                           'smtp_pass' => 'Columdrum85',
-                           'mailtype' => 'html',
-                           'charset' => 'utf-8',
-                           'newline' => "\r\n",
-                           'validation' => TRUE
-                          );
+      $config = array('protocol' => 'smtp',
+                      'smtp_host' => 'mail.bornay.heliohost.org',
+                      'smtp_port' => 25,
+                      'smtp_user' => 'Boorny85',
+                      'smtp_pass' => 'Columdrum85',
+                      'mailtype' => 'html',
+                      'charset' => 'utf-8',
+                      'newline' => "\r\n",
+                      'validation' => TRUE
+                      );
 
       //cargamos la configuración para enviar con gmail
-      $this->email->initialize($configGmail);
+      $this->email->initialize($config);
 
       $this->email->from($data['email']);
       $this->email->to("bornay85@gmail.com");
@@ -233,7 +233,7 @@ function contacto()
         redirecciona_form('Mensaje Enviado Correctamente, En Breve Le Contestaremos. GRACIAS.');    
       }
       else{
-        echo "ERROOOOOOOOOOOR";
+        echo "ERROOOOOOOOOOOR"; die();
         $this->email->print_debugger();
       }   
     }
